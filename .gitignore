@@ -1,0 +1,17 @@
+data/
+*.csv
+for_tests.py
+venv
+__pycache__
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf
+.idea/dataSources.xml
+.idea/sqldialects.xml
+.env
+.idea/misc.xml
+.idea/product_analytics.iml
+.idea/sqldialects.xml
+.idea/csv-editor.xml
+/requirements.txt
+catboost_info/*
