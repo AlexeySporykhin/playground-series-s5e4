@@ -15,3 +15,4 @@ __pycache__
 .idea/csv-editor.xml
 /requirements.txt
 catboost_info/*
+/anaconda_projects*
